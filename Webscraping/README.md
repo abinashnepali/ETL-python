@@ -1,1 +1,1 @@
-Simple Webscraping is perform by using BeautifulSoup saving the file on json locally 
+Simple Webscraping is perform by using BeautifulSoup and saving the file on json format locally 
